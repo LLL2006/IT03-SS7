@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f4f8;
+}
+
+.compoment {
+  border: 2px solid #c7c2d5;
+  border-radius: 6px;
+  width: 300px;
+  height: 140px;
+  padding: 16px;
+  margin: 6px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.in {
+  font-weight: 700;
+  color: #bc2229;
+}
