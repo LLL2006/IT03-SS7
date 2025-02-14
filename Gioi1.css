@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.progress-container {
+  width: 100%;
+  height: 10px;
+  background-color: #fdeccf;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  width: 75%;
+  height: 100%;
+  background-color: #dd720d;
+  border-radius: 5px;
+}
+.body1 {
+  margin-left: 35%;
+  width: 400px;
+  height: 400px;
+  background-color: rgb(244, 239, 239);
+  padding: 10px;
+}
+.body2 {
+  background-color: white;
+  padding: 20px;
+  height: 380px;
+}
+h6 {
+  background-color: #ffeeca;
+  color: #cd8647;
+  padding: 3px;
+}
+.inactive {
+  text-align: center;
+  width: 70px;
+  border-radius: 5px;
+  border: 1px solid orange;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.paragrap {
+  color: rgb(86, 86, 212);
+}
+.price {
+  color: black;
+  font-size: 20px;
+}
+.item {
+  margin-top: 5px;
+}
+.percent {
+  margin-left: 70%;
+}
+.item-pr {
+  display: inline-block;
+  color: #525b75;
+}
+.text {
+  color: #525b75;
+}
+img {
+  height: 50px;
+  border-radius: 50%;
+  position: relative;
+  color: #dd720d;
+  margin: 15px;
+}
+.image {
+  position: relative;
+  right: 45px;
+}
+.icon {
+  margin-left: 110px;
+  margin-bottom: 30px;
+}
+.number {
+  position: relative;
+  bottom: 32px;
+}
+.task {
+  position: relative;
+  bottom: 32px;
+}
